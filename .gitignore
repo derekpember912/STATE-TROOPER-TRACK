@@ -1,0 +1,12 @@
+# BeamNG Game Cache and Logs
+*.log
+*.tobj
+cache/
+temp/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Zip archives
+*.zip
